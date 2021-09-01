@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on web engineer.
 - 🌱 I'm currently learning functional programming and English.
 - 👯 I'm looking to collaborate on F# lovers.
-- 📫 How to reach me: Twitter @_midoliy_
+- 📫 How to reach me: Twitter [@_midoliy](https://twitter.com/_midoliy_)_
 - 😄 Pronouns: `midoliy` or `fffsharp`
 - ⚡ Fun fact: F#, C#, Guitar, Running.
 
