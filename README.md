@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-![tatsuya-midorikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsuya-midorikawa&show_icons=true&theme=flag-india)
+![tatsuya-midorikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsuya-midorikawa&show_icons=true&theme=algolia)
+<--
 ![midoliy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midoliy&show_icons=true&theme=vue)
 ![fffsharp's GitHub stats](https://github-readme-stats.vercel.app/api?username=fffsharp&show_icons=true&theme=vue)
-
+-->
 - 🔭 I'm currently working on web engineer.
 - 🌱 I'm currently learning functional programming and English.
 - 👯 I'm looking to collaborate on F# lovers.
