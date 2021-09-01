@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![tatsuya-midorikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsuya-midorikawa&show_icons=true&theme=algolia)
+![tatsuya-midorikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsuya-midorikawa&show_icons=true&default)
 
 - 🔭 I'm currently working on web engineer.
 - 🌱 I'm currently learning functional programming and English.
