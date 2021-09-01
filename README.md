@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![tatsuya-midorikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsuya-midorikawa&show_icons=true&theme=default)
-![midoliy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midoliy&show_icons=true&theme=default)
-![fffsharp's GitHub stats](https://github-readme-stats.vercel.app/api?username=fffsharp&show_icons=true&theme=default)
+![tatsuya-midorikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsuya-midorikawa&show_icons=true&theme=flag-india)
+![midoliy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midoliy&show_icons=true&theme=vue)
+![fffsharp's GitHub stats](https://github-readme-stats.vercel.app/api?username=fffsharp&show_icons=true&theme=vue)
 
 - 🔭 I'm currently working on web engineer.
 - 🌱 I'm currently learning functional programming and English.
